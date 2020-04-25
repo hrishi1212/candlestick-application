@@ -3,6 +3,12 @@ const config = require('config');
 
 class MarketDataRequest {
 
+     /**
+	 * @author Hrishikesh Kale
+	 * @description fetch trade history api of coin dcx
+	 * @param {*} pair
+	 * @param {*} limit default 500
+	 */
     tradeHistory(pair, limit) {
         return new Promise(async (resolve, reject) => {
             try {

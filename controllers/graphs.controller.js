@@ -31,6 +31,7 @@ class GraphController {
                         limit
 					} = request.query;
 
+					//let pair be required param
 					if (!pair) throw new InvalidParamException('pair');
 
 					const biz = new GraphBiz();
