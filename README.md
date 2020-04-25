@@ -6,7 +6,7 @@ A candlestick application for 1 minute, 15 minutes and 1 hour duration using the
 * Node 
 * jest-cli
 * Git
-* Contentful CLI (only for write access)
+
 
 ## Common setup
 
