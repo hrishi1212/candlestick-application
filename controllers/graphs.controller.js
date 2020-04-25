@@ -13,7 +13,7 @@ class GraphController {
 					return response.status(200).json({
 						success: true,
 						data: request.body,
-						message: 'Apporval Genereated'
+						message: 'success'
 					});
 				} catch (error) {
 					return response.status(500).json({
