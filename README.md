@@ -37,8 +37,9 @@ jest
 Folder Structure
 ============================
 
-> ### A top-level directory layout
-.
+### A typical directory layout
+
+    .
     ├── biz                     # biz logic in this folder
     ├── config                  # config folder for different environment 
     ├── controllers             # route controllers in this folder
@@ -47,4 +48,3 @@ Folder Structure
     ├── routes                  # application routes define in this folder
     └── service                 # a serice call to DB or 3rd party api in this folder
     └── index.js                # entry file index
-
