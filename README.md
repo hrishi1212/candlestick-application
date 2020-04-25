@@ -13,8 +13,8 @@ A candlestick application for 1 minute, 15 minutes and 1 hour duration using the
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
-cd the-example-app.nodejs
+git clone https://github.com/hrishi1212/candlestick-application.git
+cd candlestick-application
 ```
 
 ```bash
