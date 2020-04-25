@@ -1,0 +1,8 @@
+{
+    "coinDCX" : {
+        "baseUrl" : "https://public.coindcx.com",
+        "market_data" : {
+            "trade_history" : "/market_data/trade_history"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "candlestick-application",
+  "version": "1.0.0",
+  "description": "A candlestick application for 1 minute, 15 minutes and 1 hour duration using the data from API: https://coindcx-official.github.io/rest-api/#trades-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishi1212/candlestick-application.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Hrishikesh Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishi1212/candlestick-application/issues"
+  },
+  "homepage": "https://github.com/hrishi1212/candlestick-application#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
